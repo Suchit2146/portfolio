@@ -1,21 +1,21 @@
 export const data = {
     experience: [
+        // {
+        //     title: "Technical Engineer at",
+        //     subTitle: "TeleLogix India Pvt Ltd",
+        //     description: "user experience",
+        //     time: "( April 2019 - July 2021 )"
+        // },
         {
             title: "Technical Engineer at",
-            subTitle: "TeleLogix India Pvt Ltd",
-            description: "user experience",
-            time: "( April 2019 - July 2021 )"
-        },
-        {
-            title: "Soc Engineer at",
             subTitle: "Tata Communications",
-            description: "user experience",
+            description: "Assisting engineers with various tasks like design, equipment information, system configuration, Root Cause Analysis, Liaise with vendor for various IT support, and providing customer support.",
             time: "( August 2021 - October 2022 )"
         },
         {
             title: "Frontend Developer at",
             subTitle: "Stcs India Pvt Ltd",
-            description: "user experience",
+            description: "Designing and implementing user interfaces (UIs) and UI components using React, a front-end JavaScript library",
             time: "( Feb 2023  - Present )"
         },
     ],

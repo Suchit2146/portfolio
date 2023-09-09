@@ -19,7 +19,7 @@ const Home = () => {
                 <h1>
                     Hello I,m Suchit kumar
                     <br />
-                    Frontend Developer
+                    Full Stack Developer
                 </h1>
             </div>
             <Animate

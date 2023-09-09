@@ -12,25 +12,25 @@ const portfolioData = [
         id: 2,
         name: "Ecommerce",
         image: ecom,
-        link: "google.com"
+        link: "https://github.com/Suchit2146/FSD-Ecommerce"
     },
     {
         id: 3,
         name: "CRM",
         image: crm,
-        link: "google.com"
+        link: "https://github.com/Suchit2146/Frontend_CRM"
     },
     {
         id: 3,
         name: "Movie Booking App",
         image: mba,
-        link: "google.com"
+        link: "https://github.com/Suchit2146/Backend-MBA"
     },
     {
         id: 3,
         name: "CV",
         image: cv,
-        link: "google.com"
+        link: "/home"
     },
 ]
 

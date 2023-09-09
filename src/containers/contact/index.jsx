@@ -52,6 +52,11 @@ const Contact = () => {
                             </div>
                         </div>
                         <button>Submit</button>
+
+                        <br />
+                        <br />
+                        <br />
+                        <h1 style={{ color: "white" }}>Contact Me At <span style={{ color: "green" }}>9467547572</span></h1>
                     </div>
                 </Animate>
             </div>
